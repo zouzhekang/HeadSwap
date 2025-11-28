@@ -5,14 +5,7 @@
 
 ## 📸 Showcase
 
-| src_img | tgt_img | pasted_img | result_img |
-| :----: | :-----: | :--------: | :--------: |
-| ![src0](assets/source0.jpg) | ![tgt0](assets/target0.jpg) | ![paste0](assets/pasted0.png) |![res0](assets/result0.png) |
-| ![src1](assets/source1.jpg) | ![tgt1](assets/target1.jpg) | ![paste1](assets/pasted1.png) |![res1](assets/result1.png) |
 
-### others results
-
-![showcase](assets/show.jpg)
 
 ## 📅️ TODO
 
